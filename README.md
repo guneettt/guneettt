@@ -4,7 +4,7 @@ I’m a 2nd-year Computer Science Specialization (BSc) at the University of Albe
 
 ---
 
-📂 **Portfolio:** [currently in progress]  
+📂 **Portfolio:** [_currently in progress_]  
 
 ---
 
