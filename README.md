@@ -2,7 +2,7 @@
 
 I’m a 2nd-year Computer Science Specialization (BSc) at the University of Alberta, passionate about exploring emerging technologies, building innovative & meaningful solutions through technology and understanding systems in depth! 🍃 
 
-📂 **Portfolio:** [in progress]  
+📂 **Portfolio:** [currently in progress]  
 
 ---
 
@@ -22,6 +22,8 @@ I’m a 2nd-year Computer Science Specialization (BSc) at the University of Albe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/RISC-V-logo.svg" width="40" height="40"/>
+
 </p>
 
 ### 🔧 **Developer Tools**
@@ -34,6 +36,7 @@ I’m a 2nd-year Computer Science Specialization (BSc) at the University of Albe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+<img src="https://wingware.com/images/wingware-logo.png" width="40" height="40"/>
 </p>
 
 ---
