@@ -1,6 +1,6 @@
 # Hi, I'm Guneet!👩🏻‍💻
 
-I’m a 2nd-year Computer Science Specialization (BSc) at the University of Alberta, passionate about exploring emerging technologies, building innovative & meaningful solutions through technology and understanding systems in depth! 🍃 
+I’m a 2nd-year Computer Science Specialization (BSc) student at the University of Alberta, passionate about exploring emerging technologies, building innovative & meaningful solutions through technology and understanding systems in depth! 🍃 
 
 ---
 
@@ -16,11 +16,11 @@ I’m a 2nd-year Computer Science Specialization (BSc) at the University of Albe
 ---
 
 ### 🚀 About Me
-- ☀️ My interests lie in areas such as **software development**, **web design**, **AI & ML** and **data science**, and I enjoy exploring how these fields can derive transformative solutions! 
-- 🌷 I have experience working with various programming languages and have worked on projects involving ray tracing, database systems, cloning and much more!
+- ☀️ My interests lie in areas such as **software development**, **web design** and **AI & ML**, and I enjoy exploring how these fields can derive transformative solutions! 
+- 🌷 I have experience working with various programming languages and have worked on projects such as a bias visualizer, ray tracer, client website, chrome extensions, games and much more!
 - 🌿 My goal is to continue developing my skills and contribute to impactful projects that push the boundaries of what technology can achieve. 
 
----
+--- I’ve worked on projects like a bias visualizer, ray tracer, client website, and Chrome extension using Python, C, and JavaScript.
 
 ### 🛠 **Languages & Tools**
 <p align="left">
