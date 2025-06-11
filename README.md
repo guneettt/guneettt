@@ -2,6 +2,8 @@
 
 I’m a 2nd-year Computer Science Specialization (BSc) at the University of Alberta, passionate about exploring emerging technologies, building innovative & meaningful solutions through technology and understanding systems in depth! 🍃 
 
+Currently Building: Signal Vault & SWC Website (Client)
+
 ---
 
 📂 **Portfolio:** [_currently in progress_]  
