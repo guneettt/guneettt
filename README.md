@@ -20,7 +20,7 @@ I’m a 2nd-year Computer Science Specialization (BSc) student at the University
 - 🌷 I have experience working with various programming languages and have worked on projects such as a bias visualizer, ray tracer, client website, chrome extensions, games and much more!
 - 🌿 My goal is to continue developing my skills and contribute to impactful projects that push the boundaries of what technology can achieve. 
 
---- I’ve worked on projects like a bias visualizer, ray tracer, client website, and Chrome extension using Python, C, and JavaScript.
+--- 
 
 ### 🛠 **Languages & Tools**
 <p align="left">
