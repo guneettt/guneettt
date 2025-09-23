@@ -1,6 +1,6 @@
 # Hi, I'm Guneet!👩🏻‍💻
 
-I’m a 2nd-year Computer Science Specialization (BSc) student at the University of Alberta, passionate about exploring emerging technologies, building innovative & meaningful solutions through technology and understanding systems in depth! 🍃 
+I’m a 3rd-year Computer Science Specialization (BSc) student at the University of Alberta, passionate about exploring emerging technologies, building innovative & meaningful solutions through technology and understanding systems in depth! 🍃 
 
 ---
 
@@ -11,7 +11,7 @@ I’m a 2nd-year Computer Science Specialization (BSc) student at the University
 
 ---
 
-📂 **Portfolio:** [_currently in progress_]  
+📂 **Portfolio:** https://my-portfolio-rust-eta-38.vercel.app 
 
 ---
 
