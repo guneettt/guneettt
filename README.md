@@ -12,7 +12,7 @@ I’m a 3rd-year Computer Science Specialization (BSc) student at the University
 ---
 
 📂 **Portfolio:** https://my-portfolio-rust-eta-38.vercel.app 
-
+🌐 **Resume:** https://drive.google.com/file/d/1r-Y-uxONYgo2ZzCbUx3eASrvJMv2NbJS/view
 ---
 
 ### 🚀 About Me
