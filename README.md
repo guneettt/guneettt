@@ -21,39 +21,7 @@ Currently, I'm working as a **TechOps & Support Intern at CIBC**, where I suppor
 - **Daylily AI** — Full-Stack Developer Intern
 - **IIT Goa** — Research Intern
 - **University of Alberta** — Computing Science Teaching Assistant
------
-## Featured Projects
 
-### 🚨 TrustLine
-A real-time AI-powered scam and fraudulent call detection application built with React Native and FastAPI.
-
-**1st Place — natIgnite Hackathon · $6,000 Seed Funding**
-
-### 🛡️ RideSafe
-A real-time public-transit safety application using vision transformers for threat detection.
-
-**2nd Place — DevCon Hackathon · $1,000 Prize**
-
-### 🔍 Signal Vault
-An offline-first emergency search system designed to provide fast access to critical information during network outages.
-
-### 📊 Bias Visualizer
-A Chrome extension that compares trending topics across Google Trends and Reddit using a FastAPI analysis backend.
-
-### 🧪 Deduplication Systems Research
-Built experimentation and benchmarking pipelines to evaluate content-defined chunking, scalability, latency, throughput, and redundancy in real-world text datasets.
------
-## Research
-
-I presented my work on **deduplication software systems and content-defined chunking** at the 2026 CRA UR2PhD Undergraduate Mentoring Workshop and Research Showcase in New Orleans.
-
-My current research interests include:
-
-- AI systems and infrastructure
-- Distributed and reliable systems
-- Software security
-- Formal methods and verification
-- Blockchain and decentralized governance
 ----
 
 ### 🛠 **Languages & Tools**
