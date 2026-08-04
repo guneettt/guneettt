@@ -1,28 +1,60 @@
-# Hi, I'm Guneet!👩🏻‍💻
+# Hi, I'm Guneet 👩🏻‍💻
 
-I’m a 3rd-year Computer Science Specialization (BSc) student at the University of Alberta, passionate about exploring emerging technologies, building innovative & meaningful solutions through technology and understanding systems in depth! 🍃 
+I'm a Computer Science student at the University of Alberta interested in building reliable software systems, exploring AI and systems research, and solving problems with real-world impact.
 
----
+Currently, I'm working as a **TechOps & Support Intern at CIBC**, where I support enterprise scheduling platforms, troubleshoot production issues, and contribute to automation and system reliability.
 
-💻 **Currently Building:**
+## About Me
 
-- **Signal Vault** – A robust offline-first emergency search engine designed for accessibility during critical scenarios  
-- **SWC Website (Client)** – A sleek, responsive web platform tailored for a client’s automotive business
+- 💼 TechOps & Support Intern at **CIBC**
+- 🔬 Former **UR2PhD Research Scholar** researching deduplication systems and content-defined chunking
+- 👩🏻‍🏫 Teaching Assistant for Computing Science at the University of Alberta
+- ⚙️ Interested in **AI systems, distributed systems, software reliability, and security**
+- 🌱 Currently strengthening my knowledge of scalable systems and production engineering
+- 🤝 Open to research collaborations and software engineering opportunities
 
----
+## Experience
 
-📂 **Portfolio:** https://my-portfolio-rust-eta-38.vercel.app 
+- **CIBC** — TechOps & Support Intern
+- **MuchLearning** — Software Developer Intern
+- **University of Alberta** — UR2PhD Research Scholar
+- **Daylily AI** — Full-Stack Developer Intern
+- **IIT Goa** — Research Intern
+- **University of Alberta** — Computing Science Teaching Assistant
+-----
+## Featured Projects
 
-🌐 **Resume:** https://drive.google.com/file/d/1r-Y-uxONYgo2ZzCbUx3eASrvJMv2NbJS/view
+### 🚨 TrustLine
+A real-time AI-powered scam and fraudulent call detection application built with React Native and FastAPI.
 
----
+**1st Place — natIgnite Hackathon · $6,000 Seed Funding**
 
-### 🚀 About Me
-- ☀️ My interests lie in areas such as **software development**, **web design** and **AI & ML**, and I enjoy exploring how these fields can derive transformative solutions! 
-- 🌷 I have experience working with various programming languages and have worked on projects such as a bias visualizer, ray tracer, client website, chrome extensions, games and much more!
-- 🌿 My goal is to continue developing my skills and contribute to impactful projects that push the boundaries of what technology can achieve. 
+### 🛡️ RideSafe
+A real-time public-transit safety application using vision transformers for threat detection.
 
---- 
+**2nd Place — DevCon Hackathon · $1,000 Prize**
+
+### 🔍 Signal Vault
+An offline-first emergency search system designed to provide fast access to critical information during network outages.
+
+### 📊 Bias Visualizer
+A Chrome extension that compares trending topics across Google Trends and Reddit using a FastAPI analysis backend.
+
+### 🧪 Deduplication Systems Research
+Built experimentation and benchmarking pipelines to evaluate content-defined chunking, scalability, latency, throughput, and redundancy in real-world text datasets.
+-----
+## Research
+
+I presented my work on **deduplication software systems and content-defined chunking** at the 2026 CRA UR2PhD Undergraduate Mentoring Workshop and Research Showcase in New Orleans.
+
+My current research interests include:
+
+- AI systems and infrastructure
+- Distributed and reliable systems
+- Software security
+- Formal methods and verification
+- Blockchain and decentralized governance
+----
 
 ### 🛠 **Languages & Tools**
 <p align="left">
